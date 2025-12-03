@@ -65,8 +65,8 @@ mse = mean_squared_error(y_test, y_pred)
 r2 = r2_score(y_test, y_pred)
 
 # Print evaluation metrics
-print('Name: KANAGAVEL R')
-print('Reg. No: 212223040085')
+print('Name: RAM PRASATH S')
+print('Reg. No: 212224040266')
 print("Mean Squared Error:", mse)
 print("R-squared Score:", r2)
 
